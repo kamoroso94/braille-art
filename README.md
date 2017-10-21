@@ -1,2 +1,2 @@
 # braille-art
-Create ASCII art with Braille dot patterns
+Create ASCII art with Braille dot patterns.
